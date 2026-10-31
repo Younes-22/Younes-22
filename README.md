@@ -18,7 +18,7 @@ I'm a DevOps Engineer focused on building, automating and deploying cloud infras
 
 | Project | Description |
 |---|---|
-| [AdminForge]([https://github.com/Younes-22](https://github.com/Younes-22/adminforge-ecs-project)) | Containerised application deployed on AWS ECS using Terraform and GitHub Actions |
+| [AdminForge](https://github.com/Younes-22/adminforge-ecs-project) | Containerised application deployed on AWS ECS using Terraform and GitHub Actions |
 | [vikunja-eks](https://github.com/Younes-22/vikunja-eks) | Kubernetes application deployment with AWS EKS and Terraform |
 
 ### 📚 Currently Learning
