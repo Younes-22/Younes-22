@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hey, I'm Younes 👋
 
 **DevOps Engineer | AWS | Terraform | Docker | Kubernetes**
