@@ -6,7 +6,7 @@ I'm a DevOps Engineer focused on building, automating and deploying cloud infras
 
 ### 🛠️ Tech Stack
 
-- **Cloud:** AWS (EC2, ECS, EKS, VPC, IAM, S3, RDS)
+- **Cloud:** AWS (EC2, ECS, EKS, VPC, IAM, S3)
 - **Infrastructure as Code:** Terraform
 - **Containers:** Docker, Kubernetes, Helm
 - **CI/CD:** GitHub Actions
